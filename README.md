@@ -1,38 +1,32 @@
-Space Marbles
-====
+Game Jams
+=========
 
-Made with Unity.
+Games made in Unity as part of a game jam.
 
-Version 0.1.2
+Current projects:
+- Space Marbles
+ 
 
 To-do list
 ==========
 
-&#x2611; Player
+&#x2611; First game jam
 
-- &#x2611; Player movement
-	
-- &#x2611; Shooting
-	
-- &#x2611; Movement restriction
-	
-- &#x2611; Ball collision
-	
-&#x2611; Levels
+&#9744; Second game jam
 
-- &#x2611; Menu
-	
-- &#x2611; Game
-	
-- &#x2611; Many levels
+&#9744; First Community/global game jam
 
-&#9744; Extras
+&#9744; Second Community/global game jam
 
-- &#x2611; Publish web player
+&#9744; First Co-op game jam
 
-- &#x2611; Settings
+&#9744; Second Co-op game jam
 
-- &#9744; High scores
+&#9744; First Group game jam
+
+&#9744; Second Group game jam
+
+
 
 
 
