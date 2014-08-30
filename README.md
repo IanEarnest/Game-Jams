@@ -1,11 +1,20 @@
 Game Jams
 =========
 
+Introduction
+-----------
+
 Games made in Unity as part of a game jam.
 
 Current projects:
 - Space Marbles
- 
+
+
+Purpose
+-------
+
+Quickly prototype and test game ideas.
+
 
 To-do list
 ==========
