@@ -7,7 +7,7 @@ Introduction
 Games made in Unity as part of a game jam.
 
 Current projects:
-- Space Marbles - puzzle game using planets as marbles. 
+- Space Marbles - puzzle game using planets as marbles. Theme of planets.
 
 
 Purpose
